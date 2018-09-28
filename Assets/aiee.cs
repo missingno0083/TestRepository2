@@ -6,6 +6,7 @@ public class aiee : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
+        Debug.Log("kuso");
 		
 	}
 	
